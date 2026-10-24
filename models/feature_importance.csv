@@ -1,0 +1,32 @@
+feature,importance,label
+hba1c,0.0742307129380152,HbA1c
+steps_120,0.05072319598336076,Steps (2 h)
+hour_sin,0.034239054024799244,Time of day
+carbs_last_3h,0.03407850655793728,Carbs in last 3 h
+hour_cos,0.008604283134223345,Time of day
+mins_to_usual_meal,0.006851870625960969,Time to usual meal
+fasting_glucose,0.005903118138599821,Fasting glucose
+mins_since_meal,0.004652301128457233,Time since last meal
+glucose_mean_3h,0.004561301163404067,Average glucose (3 h)
+family_history_t2d,0.002714082607899848,Family history of T2D
+diet_rice_heavy,0.0012967206680527903,Rice-heavy diet
+bmi,0.0011156434245374418,BMI
+hrv_mean_60,0.0007231556158223684,Heart rate variability
+age,0.0006449579272215233,Age
+on_metformin,0.0005982469185439321,On metformin
+glucose_lag_60,0.0005235093046599415,Glucose 1 h ago
+hr_mean_30,0.000495713371101251,Heart rate (30 min)
+carbs_last_meal,0.00037207336788558365,Carbs in last meal
+slope_15,0.00026481105166316815,Glucose trend (15 min)
+slope_30,0.00020864250542625604,Glucose trend (30 min)
+last_night_sleep_h,0.00018349929581717994,Last night's sleep
+glucose,0.00017450310155331383,Current glucose
+glucose_lag_15,0.0001423244066866373,Glucose 15 min ago
+glucose_std_3h,0.00012929145858642244,Glucose variability (3 h)
+glucose_lag_30,0.00012317865991999058,Glucose 30 min ago
+hypertension_dx,3.0217985860521896e-05,Hypertension
+tcf7l2_risk_allele,2.6757911143667396e-05,TCF7L2 risk allele
+steps_30,-2.583522455246179e-05,Steps (30 min)
+years_since_diagnosis,-0.00013575026472456564,Years since diagnosis
+systolic_bp,-0.00018845873624466028,Systolic BP
+ldl,-0.00028176541777580333,LDL

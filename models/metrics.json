@@ -1,0 +1,14 @@
+{
+  "train_rows": 105695,
+  "test_rows": 38628,
+  "train_patients": 45,
+  "test_patients": 15,
+  "spike_rate_test": 0.134,
+  "auroc": 0.96,
+  "auprc": 0.815,
+  "precision": 0.715,
+  "recall": 0.718,
+  "spikes_in_test": 349,
+  "spikes_warned_30min_ahead": 0.968,
+  "median_lead_time_min": 100.0
+}
