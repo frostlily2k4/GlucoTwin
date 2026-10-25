@@ -160,17 +160,14 @@ Open the local URL displayed in your terminal.
 
 ## 🎬 9. Demo Video
 
-**Demo video:** [ADD YOUR UNLISTED YOUTUBE VIDEO LINK HERE]
+**Demo Video Status:** Not Available
 
-The demonstration should cover:
+I was unable to upload the project demonstration video to YouTube before submission. However, the other required project materials were submitted.
 
-1. Project introduction.
-2. Patient dashboard and glucose trends.
-3. Short-term glucose-risk estimate.
-4. Meal, walking, and sleep scenario simulation.
-5. Limitations and future scope.
+The GlucoTwin AI repository documents the project's problem statement, proposed solution, technical architecture, machine-learning approach, features, evaluation, and future scope.
 
-The video must be uploaded to YouTube as **Unlisted**, and the link must be accessible to reviewers. Add the same link here after uploading.
+I apologize for the missing video demonstration and appreciate your consideration.
+
 
 ## 📊 10. Results and Outcomes
 
