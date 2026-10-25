@@ -92,7 +92,7 @@ Streamlit Dashboard
 Glucose Trends + What-If Simulator
 ```
 
-**Architecture diagram:** [Add the path or public URL of your architecture PDF here.]
+**Architecture diagram:**
 
 ## 🛠️ 7. Technical Stack
 
@@ -105,8 +105,6 @@ Glucose Trends + What-If Simulator
 | Visualization | Add the charting libraries used by your project |
 | Development environment | Python virtual environment |
 
-**Note:** Confirm the exact libraries and versions from your project's `requirements.txt` before submission.
-
 ## 🚀 8. Installation and Setup
 
 ### Prerequisites
@@ -118,7 +116,7 @@ Glucose Trends + What-If Simulator
 ### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/GlucoTwin-AI.git
+git clone https://github.com/frostlily2k4/GlucoTwin-AI.git
 cd GlucoTwin-AI
 ```
 
@@ -203,7 +201,7 @@ These are proposed future improvements, not established capabilities of the curr
 
 ## 🎓 13. College / Incubator Information
 
-- **College / Institution:** AVP COLLEGE OF ARTS AND SCIENCE
+- **College:** AVP COLLEGE OF ARTS AND SCIENCE
 - **Department:** B.Sc AI &  ML
 
 ## 📄 14. Project Presentation
@@ -215,8 +213,6 @@ The presentation covers the problem statement, proposed solution, architecture, 
 ## 🧩 15. Architecture Document
 
 **Architecture PDF:** https://drive.google.com/file/d/1HKyN24oGDdtD0JPadE1rym_nIQCjz3xi/view?usp=sharing
-
-Ensure that the document is uploaded to the repository or another publicly accessible location.
 
 ## ⚖️ 16. Open-Source License
 
