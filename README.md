@@ -220,7 +220,7 @@ Ensure that the document is uploaded to the repository or another publicly acces
 
 ## ⚖️ 16. Open-Source License
 
-**License:** [Specify the license selected for this repository.]
+**License:** 
 
 If you choose the MIT License, add a `LICENSE` file containing the appropriate MIT license text and your copyright information. Do not claim a license until you have added it.
 
